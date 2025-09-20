@@ -9,7 +9,7 @@ History
 Unreleased
 ---------------------
 
-* Drop support for Python 3.8. Add support for Python 3.13.
+* Drop support for Python 3.8. Add support for Python 3.13 and 3.14.
 
 ---------------------
 1.2.0 (2024-10-06)
