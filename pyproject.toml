@@ -7,7 +7,7 @@ name = "galaxy_sequence_utils"
 dynamic = ["version"]
 description = "Galaxy utilities for manipulating genomic sequences"
 readme = "README.rst"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 license = "AFL-3.0"
 license-files = ["LICENSE"]
 authors = [
@@ -23,7 +23,6 @@ classifiers = [
     "Natural Language :: English",
     "Operating System :: POSIX",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
